@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'lingua portuguesa',
     'o que é uno?',
     'é um jogo de carta'
 )
@@ -11,12 +11,12 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'ingles',
+    'o que é love?',
+    'love é amo'
 )
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
-    'Oi em ingles é HI (RAI)'
+    'geografia',
+    'qual a capital do brasil?',
+    'capital do brasil é brailia'
 ) 
